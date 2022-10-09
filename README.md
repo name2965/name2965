@@ -5,7 +5,7 @@
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![WebAsembly](https://img.shields.io/badge/WebAssembly-654FF0.svg?&style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![AsemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC.svg?&style=for-the-badge&logo=AssemblyScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
