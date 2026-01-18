@@ -4,3 +4,4 @@
 
 # Dreamhack
 [![Dreamhack Profile](https://dreamhack-readme-stats.vercel.app/api/stats?username=name2965)](https://dreamhack.io/users/11314/)
+[![Dreamhack Category Chart](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=name2965)](https://dreamhack.io/users/11314/)
